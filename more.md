@@ -10,6 +10,8 @@
 ## C
 42TokyoのPiscineに向けて始めた。
 
+[Cで作ったものたち](https://github.com/kumasan903/study/tree/main/c)
+
 ## Rust
 2022年6月から勉強し始めた。  
 最近はPiscineのためにCに浮気中。
@@ -74,8 +76,8 @@ Scratchの次に始めたプログラミング。
 どれくらいの距離が必要かを求めるシンプルな計算機。  
 最初はPython+tkinterでデスクトップアプリとして作っていたが後にJSに移行。
 
-https://kumasan903.github.io/descent-calc/  
-https://github.com/kumasan903/descent-calc/
+[github pages](https://kumasan903.github.io/descent-calc/)  
+[repo](https://github.com/kumasan903/descent-calc/)
 
 # 使っているもの
 ## PC
@@ -84,8 +86,7 @@ https://github.com/kumasan903/descent-calc/
 - RAM  
     16GB
 - SSD  
-    250GB(win11),120GB(Ubuntu)  
-    デュアルブート中(だけどほとんど使ってないからいずれ辞める)
+    250GB+120GB
 - HDD  
     2TB  
     異音がする壊れかけ。
@@ -96,14 +97,16 @@ https://github.com/kumasan903/descent-calc/
     4Kモニターほしい(グラボの性能やばそう)
 ## OS
 メインはWindows11。  
-でも最近はほとんどWSL(Ubuntu22.04)で作業してる。
+~~でも最近はほとんどWSL(Ubuntu22.04)で作業してる。~~
+最近はVMWare上のUbuntu2204で作業してる。
 
 ## ブラウザ
 メインはFirefox。サブは今のところない。  
 昔はChrome使ってたけどLinux使い始めたあたりでFirefoxに移行。
 
 ## テキストエディタ
-VSCode
+- VSCode
+- Vim
 
 ## その他
 - 動画編集ソフト  
@@ -111,6 +114,7 @@ VSCode
 - 画像編集ソフト  
     GIMP  
     Krita
+    Medibang Paint Pro
 - DAW  
     Studio One 5 Prime
 
